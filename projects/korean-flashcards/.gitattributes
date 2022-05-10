@@ -1,0 +1,8 @@
+resources/docs/unicode/CodeCharts.pdf filter=lfs diff=lfs merge=lfs -text
+resources/docs/unicode/ucd-wget/www.unicode.org/Public/UCD/latest/ucdxml/ucd.nounihan.flat.xml filter=lfs diff=lfs merge=lfs -text
+resources/docs/asian-char-in-swift/SF-Symbols/sketch-86-142512.zip filter=lfs diff=lfs merge=lfs -text
+resources/docs/asian-char-in-swift/SF-Symbols/SF-Symbols-3.2.dmg filter=lfs diff=lfs merge=lfs -text
+resources/docs/asian-char-in-swift/SF-Symbols/macOS-12-Design-Templates-Sketch.dmg filter=lfs diff=lfs merge=lfs -text
+resources/docs/asian-char-in-swift/SF-Symbols/SF-Pro.dmg filter=lfs diff=lfs merge=lfs -text
+resources/docs/asian-char-in-swift/SF-Symbols/SF-Compact.dmg filter=lfs diff=lfs merge=lfs -text
+resources/docs/swiftui/Apple-Sample-Code/FrutaBuildingAFeatureRichAppWithSwiftUI.zip filter=lfs diff=lfs merge=lfs -text
